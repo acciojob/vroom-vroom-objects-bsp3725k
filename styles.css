@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+*{
+	background-color:lightyellow;
+}
+h1{
+	border-radius:30px;
+	background-color:red;
+	color:white;
+}
