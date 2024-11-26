@@ -4,6 +4,8 @@
 }
 h1{
 	border-radius:30px;
-	background-color:red;
-	color:white;
+	background-color:deepskyblue;
+	align-items:center;
+	text-align:center;
+	padding:20px;
 }
